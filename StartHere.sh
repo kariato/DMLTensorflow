@@ -37,3 +37,7 @@ pip install --upgrade jupyter
 
 jupyter notebook --ip $IP --port $PORT --no-browser
 
+
+wget www.googledrive.com/host/0B_u1P2oANsMaX2o1azZKS0FFYkE
+mv 0B_u1P2oANsMaX2o1azZKS0FFYkE mypickle.zip
+unzip mypickle.zip
